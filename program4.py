@@ -8,7 +8,7 @@ if number<0:
     print("\nError:Factorial is not defined for negative numbers. ")
 else:
     result=factorial(number)
-    print(f"\nthe Factorial of {number} is {result}")                   
+    print(f"\nthe factorial of {number} is {result}")                   
 
 
 
